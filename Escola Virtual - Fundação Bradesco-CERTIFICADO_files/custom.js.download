@@ -1,1 +1,0 @@
-function loadDiarioDesempenho(){window.open(mplsRootPath+"/Custom/LoadableModules/UserRedirectHandler.ashx?t=diario")}function loadPDIForUser(){window.open(mplsRootPath+"/Custom/LoadableModules/UserRedirectHandler.ashx?t=pdi")}document.addEventListener("DOMContentLoaded",function(){$(".PortalTopInfoP2").css("cursor","pointer").click(function(){location.href="/"})})
